@@ -9,7 +9,7 @@ Convenient for creating new opencv projects without the need to configure the en
 Use this template to create a new repository, then clone it to your local computer.
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone --recursive YOUR_REPOSITORY_URL
 ```
 
 ## Build
